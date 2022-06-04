@@ -1,0 +1,13 @@
+.line{
+    color: red;
+}
+.green{
+    color: green;
+}
+.input{
+    display: flex;
+    gap: 10px;
+    margin: auto;
+    width: 15%;
+    padding: 10px;
+}
